@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"manoj",
+        "age":10
+        
+    },
+    {
+        "id":2,
+        "name":"kuamr",
+        "age":29
+        
+    },
+    {
+        "id":3,
+        "name":"virat",
+        "age":18
+        
+    },
+    {
+        "id":4,
+        "name":"rohit",
+        "age":45
+        
+    }
+]
